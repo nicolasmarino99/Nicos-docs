@@ -1,0 +1,6 @@
+[submodule "server-nicos-docs"]
+	path = server-nicos-docs
+	url = https://github.com/nicolasmarino99/server-nicos-docs.git
+[submodule "client-nicos-docs"]
+	path = client-nicos-docs
+	url = https://github.com/nicolasmarino99/client-nicos-docs.git
